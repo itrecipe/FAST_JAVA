@@ -1,0 +1,15 @@
+package ch20;
+
+public class NestedLoopTest {
+	//ÁßÃ¸ ¹Ýº¹¹®
+	public static void main(String[] args) {
+		
+		int dan = 2;
+		int count = 1;
+		
+		for( ; dan <=9; dan++) {
+			
+		}
+	}
+
+}

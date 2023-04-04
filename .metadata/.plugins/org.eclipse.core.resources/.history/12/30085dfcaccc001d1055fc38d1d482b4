@@ -1,0 +1,12 @@
+package ch15;
+
+public class IfElseIfTest {
+
+	public static void main(String[] args) {
+		int age = 17;
+		int charge;
+		
+		if( age < 8)
+	}
+
+}

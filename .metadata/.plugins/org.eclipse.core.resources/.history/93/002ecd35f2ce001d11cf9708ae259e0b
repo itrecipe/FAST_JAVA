@@ -1,0 +1,10 @@
+package ch04;
+
+public class StudentTest {
+
+	public static void main(String[] args) {
+		//努贰胶 积己规过
+		Student studentLee = new Student();
+	}
+
+}

@@ -1,0 +1,14 @@
+package ch16;
+
+public class SwitchCaseTest2 {
+	//문자열이 지원되는 switch ~ case문
+	public static void main(String[] args) {
+		
+		String medal = "Gold";
+		
+		switch(medal) {
+		case "Gold":
+		}
+	}
+
+}
