@@ -1,0 +1,7 @@
+package ch11;
+
+public class MakeReport {
+
+	StringBuffer buffer = new StringBuffer();
+
+}

@@ -1,0 +1,9 @@
+package ch10;
+
+public class BirthDay {
+	
+	//private를 사용했으므로 외부에서 접근 불가
+	private int day;
+	private int month;
+	private int year;
+}

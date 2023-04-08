@@ -1,0 +1,8 @@
+package ch08;
+
+public class PrivacyInfo {
+
+	public String Name;
+	public String age;
+	public
+}

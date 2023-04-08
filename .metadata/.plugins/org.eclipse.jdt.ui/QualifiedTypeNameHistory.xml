@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="ch07.UserInfo"/>
+    <fullyQualifiedTypeName name="ch08.Order"/>
+    <fullyQualifiedTypeName name="ch09.Student"/>
+    <fullyQualifiedTypeName name="ch10.BirthDay"/>
+    <fullyQualifiedTypeName name="ch11.MakeReport"/>
 </qualifiedTypeNameHistroy>

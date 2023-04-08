@@ -1,0 +1,25 @@
+package ch09;
+
+public class Student {
+
+	int studentId;
+	String studentName;
+	
+	Subject korea;
+	Subject math;
+	
+	Student(int studentId, String StudentName){
+		this.studentId = studentId;
+		this.studentName = studentName;
+		
+		korea = new Subject();
+		math = new Subject();
+	}
+	
+	//멤버 변수에 대한 셋팅
+	public void setKoreaSubject(String name, int score) {
+		korea.subjectName = name;
+		korea.score = score;
+	}
+	
+}

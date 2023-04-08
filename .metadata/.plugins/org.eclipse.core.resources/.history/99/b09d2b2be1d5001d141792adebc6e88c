@@ -1,0 +1,39 @@
+package ch10;
+
+public class BirthDay {
+	
+	//private를 사용했으므로 외부에서 접근 불가
+	//integer는 default값을 가지는데  0을 갖게된다.
+	private int day;
+	private int month;
+	private int year;
+	
+	private boolean isValid; //참인지 거짓인지
+	//default 값을 가지는데 boolean형은 false를 갖게된다.
+	
+	public int getDay() {
+		return day;
+	}
+	
+	public void setDay(int day) {
+		this.day = day;
+	}
+	
+	//get() 값을 가져오고, set() 값을 꺼내온다.
+	//getter, setter 메서드 사용(이클립스에서 제공하는 기능)
+	public int getMonth() {
+		return month;
+	}
+
+	public void setMonth(int month) {
+		this.month = month;
+	}
+
+	public int getYear() {
+		return year;
+	}
+
+	public void setYear(int year) {
+		this.year = year;
+	}
+}
