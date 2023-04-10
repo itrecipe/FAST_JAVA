@@ -1,0 +1,19 @@
+package ch16;
+
+public class EmployeeTest {
+
+	public static void main(String[] args) {
+		
+		/* 생성자가 하나도 없으면 기본 생성자가 자동으로 만들어짐
+		 * 해당 파일에서는 기본 생성자를 이용할 예정
+		 */
+		Employee employeeLee = new Employee();
+		employeeLee.setEmployeeName("이순신");
+		
+		System.out.println(employeeLee.serialNum);
+		
+		Employee employeeKim = new Employee();
+		employeeKim.setEmployeeId("김유신");
+	}
+
+}

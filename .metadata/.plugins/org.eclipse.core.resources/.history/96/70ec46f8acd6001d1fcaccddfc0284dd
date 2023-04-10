@@ -1,0 +1,9 @@
+package ch14;
+
+public class Taxi {
+	
+	String passenger;
+	String taxiCompany;
+	int money;
+	
+}
