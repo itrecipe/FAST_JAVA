@@ -1,0 +1,11 @@
+package ch20;
+
+public class ArrayTest1 {
+
+	public static void main(String[] args) {
+		
+		double[] dArr = new double[5];
+		
+		dArr[0] = 1.1;
+	}
+}

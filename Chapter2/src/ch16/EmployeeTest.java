@@ -11,7 +11,7 @@ public class EmployeeTest {
 		
 		System.out.println(employeeLee.serialNum); 
 		/* 해당 코드에서 노란줄이 뜨는 이유는 serialNum은 이미 메모리에 올라와있는
-		   static(동적할당)된 변수 이기 때문에 클래스명으로 불러서 사용할 수가 있다.
+		   static(동적할당) 변수 이기 때문에 클래스명으로 불러서 사용할 수가 있다.
 		   employeeLee라는 인스턴스 변수로 호출 할 수도 있지만 클래스명으로 호출하는
 		   방법을 제일 많이 사용 한다고 한다.
 		 */

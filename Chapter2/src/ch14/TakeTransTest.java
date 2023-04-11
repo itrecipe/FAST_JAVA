@@ -14,7 +14,6 @@ public class TakeTransTest {
 		Subway greenSubway = new Subway(2); //2번라인 초록색 지하철 객체 생성
 		studentT.takeSubway(greenSubway); //초록색(2번라인) 지하철 탑승
 		
-		
 		studentJ.showInfo();
 		studentT.showInfo();
 		System.out.println();
@@ -24,7 +23,7 @@ public class TakeTransTest {
 
 		Student studentE = new Student("Edward", 20000);
 		
-		Taxi taxi = new Taxi("잘 나간다 운수 (택시) :");
+		Taxi taxi = new Taxi("잘 나간다 운수 (택시) : ");
 		studentE.takeTaxi(taxi);
 		studentE.showInfo();
 		taxi.showTaxiInfo();

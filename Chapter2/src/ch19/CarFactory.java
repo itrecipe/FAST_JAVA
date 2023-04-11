@@ -1,8 +1,6 @@
 package ch19;
 
 public class CarFactory {
-		
-	private int carNum;
 	
 	//유일한 인스턴스, 객체 생성
 	private static CarFactory instance = new CarFactory();
@@ -22,6 +20,5 @@ public class CarFactory {
 	
 	public Car createCar() {
 		
-		return null;
 	}
 }
