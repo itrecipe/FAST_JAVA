@@ -13,4 +13,7 @@
     <fullyQualifiedTypeName name="ch18.Company"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
     <fullyQualifiedTypeName name="ch19.CarFactory"/>
+    <fullyQualifiedTypeName name="ch21.Book"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="ch24.Subject"/>
 </qualifiedTypeNameHistroy>
