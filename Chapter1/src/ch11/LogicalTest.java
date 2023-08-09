@@ -23,5 +23,4 @@ public class LogicalTest {
 		System.out.println(flag);
 		
 	}
-
 }
