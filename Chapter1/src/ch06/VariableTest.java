@@ -9,6 +9,8 @@ public class VariableTest {
 		System.out.println(byte_Number);
 		
 		//int num = 12345678900;
+		//정수는 기본적으로 4byte(int) 공간에 데이터가 잡힌다.
+		
 		long long_Number = 123456789L; 
 		/* - 12345678900; 해당 숫자는 int(4byte)로 처리하기엔 큰 숫자이기 때문에,
 		     8byte인 long형에 넣어줘라 라는 의미이다.
