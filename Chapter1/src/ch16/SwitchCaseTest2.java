@@ -9,6 +9,7 @@ public class SwitchCaseTest2 {
 		Scanner scanner = new Scanner(System.in); //문자열을 받기 위해 스캐너 사용
 		
 		System.out.println("무슨 메달을 받을까?");
+		
 		String medal = scanner.next(); //스캐너로 문자열을 받아 출력하기
 		
 		switch(medal) {
